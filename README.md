@@ -22,21 +22,21 @@ List players and a player cards in a GUI utilizing JAXB to unmarshal XML data re
 
 ### 1. GUI without Listing Players
 
-![GUI without Listing Players](screenshots/gui_without_players.png)
+![GUI without Listing Players](images/WithoutListingPlayers.png.png)
 
 - This screenshot shows the initial state of the GUI before listing any players.
 - It features a clean interface with menu options for various actions.
 
 ### 2. Listing Players
 
-![Listing Players](screenshots/listing_players.png)
+![Listing Players](images/ListPlayers.png)
 
 - After selecting the option to list players, the GUI updates to display the list of Clash Royale players.
 - The screenshot includes a player list section  with scroll down.
 
 ### 3. Listing One Player's Cards
 
-![Listing One Player's Cards](screenshots/one_player_cards.png)
+![Listing One Player's Cards](images/WithoutListingPlayers.png)
 
 - When selecting a specific player, the GUI displays their card collection.
 - The screenshot shows player card information, card collection, with scroll down.
