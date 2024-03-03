@@ -1,4 +1,4 @@
-# Java-Binding_Unmarshaller
+# Java-Binding_Unmarshaller - By Miquel
 List players and a player cards in a GUI utilizing JAXB to unmarshal XML data representing Clash Royale player information and their respective cards. It consists of two main parts:
 
 ### Functionality
